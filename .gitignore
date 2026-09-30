@@ -1,4 +1,17 @@
+# Dependencies & Package files
 node_modules/
+package.json
+package-lock.json
+
+# Automation & Recording Scripts
+capture.mjs
+record-video.mjs
+videos/
 videos-temp/
+
+# Environment, Cache & OS Files
 .DS_Store
+Thumbs.db
 *.log
+.env*
+.cache/

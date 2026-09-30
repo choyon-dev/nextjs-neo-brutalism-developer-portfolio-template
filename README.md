@@ -31,8 +31,7 @@
 
 Built from scratch on the bleeding edge of the React ecosystem (**Next.js 16 + React 19 + Tailwind CSS v4**), it comes pre-loaded with **interactive lead-generation micro-apps**, dynamic service pricing matrices, client consultation booking drawers, and automated PDF resume/proposal generation.
 
-🔗 **Explore the Live Site**: [https://choyon.dev](https://choyon.dev)  
-🎬 **Watch Full Video Walkthrough**: [`videos/choyon-portfolio-walkthrough.webm`](./videos/choyon-portfolio-walkthrough.webm)
+🔗 **Explore the Live Site**: [https://choyon.dev](https://choyon.dev)
 
 <p align="center">
   <img src="./assets/demo-preview.gif" alt="Interactive Neo-Brutalist Portfolio Walkthrough" width="95%" />
