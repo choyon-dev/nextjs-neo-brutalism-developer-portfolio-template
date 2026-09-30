@@ -8,7 +8,7 @@
   <a href="https://choyon.dev" target="_blank">
     <img src="https://img.shields.io/badge/LIVE_DEMO-choyon.dev-6AFFAF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" alt="Live Demo" />
   </a>
-  <a href="https://gumroad.com/l/YOUR_GUMROAD_SLUG" target="_blank">
+  <a href="https://choyondev.gumroad.com/l/NexJsNeo-BrutalistDeveloperAgencyPortfolioTemplate" target="_blank">
     <img src="https://img.shields.io/badge/GET_THE_SOURCE_CODE-GUMROAD-FF4081?style=for-the-badge&logo=gumroad&logoColor=white&labelColor=000000" alt="Get The Source Code on Gumroad" />
   </a>
 </p>
@@ -31,7 +31,7 @@
 More than just a static **developer resume website**, NeoPort 16 functions as an active **client acquisition portfolio template**. It includes built-in interactive lead-generation tools (such as an AI-powered Speed & SEO Doctor and an interactive CMS Stack Matchmaker), dedicated service pricing matrices, client consultation booking drawers, and automated PDF export functionality. Built with **React 19**, **Tailwind CSS v4**, and **Framer Motion 13**, it offers a blazing-fast 100/100 Lighthouse score and turnkey SEO structured data.
 
 🔗 **Explore Live Demo**: [https://choyon.dev](https://choyon.dev)  
-📦 **Get The Source Code**: [https://gumroad.com/l/YOUR_GUMROAD_SLUG](https://gumroad.com/l/YOUR_GUMROAD_SLUG)
+📦 **Get The Source Code**: [https://choyondev.gumroad.com/l/NexJsNeo-BrutalistDeveloperAgencyPortfolioTemplate](https://choyondev.gumroad.com/l/NexJsNeo-BrutalistDeveloperAgencyPortfolioTemplate)
 
 ---
 
@@ -247,23 +247,25 @@ Engineered to deliver crisp typography and smooth touch interactions on all mobi
 
 ---
 
-## 🛒 Simple One-Price Developer License ($29 Flat)
+## 📦 Complete Developer & Agency License
 
-No complicated tiers. No monthly subscriptions. Just **one flat price** for the full template:
+Get full unrestricted access to the complete production codebase with zero restrictions:
 
-- ✅ **Full Source Code Access** (Next.js 16 + React 19 + Tailwind v4 + Framer Motion)
-- ✅ **Personal & Commercial Use**: Use for your personal developer website or customize it for unlimited client projects
-- ✅ **All Included**: Lead-gen Speed Doctor & CMS Matchmaker micro-tools, booking drawer, PDF export, SEO engine
+- ✅ **Full Source Code Access**: Production-ready Next.js 16, React 19, Tailwind v4 & Framer Motion
+- ✅ **Personal & Commercial Rights**: Build your personal developer portfolio or deploy unlimited client websites
+- ✅ **All Included**: Lead-gen Speed Doctor & CMS Matchmaker micro-tools, booking drawer, dynamic PDF generator & turnkey SEO
 - ✅ **Lifetime Updates**: Receive all future template improvements
 - ✅ **Complete Documentation**: 5-minute setup and customization guide
 
 <p align="center">
-  <a href="https://gumroad.com/l/YOUR_GUMROAD_SLUG" target="_blank">
+  <a href="https://choyondev.gumroad.com/l/NexJsNeo-BrutalistDeveloperAgencyPortfolioTemplate" target="_blank">
     <img src="https://img.shields.io/badge/GET_THE_SOURCE_CODE-GUMROAD-FF4081?style=for-the-badge&logo=gumroad&logoColor=white&labelColor=000000" alt="Get The Source Code on Gumroad" />
   </a>
 </p>
 
-*(Secure checkout handled via Gumroad. Supports credit/debit cards, Apple Pay, Google Pay, and PayPal).*
+<p align="center">
+  <sub>Instant digital delivery and full repository access via Gumroad.</sub>
+</p>
 
 ---
 
