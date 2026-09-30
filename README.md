@@ -36,8 +36,6 @@ More than just a static **developer resume website**, NeoPort 16 functions as an
 
 ---
 
-## 📸 Section-by-Section Visual Showcase
-
 ### 1. ⚡ High-Impact Hero & Availability Status
 Bold typography paired with an active availability pill, interactive floating skill badges, dynamic CTA buttons with neo-mint hover shadows, and infinite marquee ticker.
 
