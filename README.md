@@ -34,10 +34,6 @@ More than just a static **developer resume website**, NeoPort 16 functions as an
 🔗 **Explore Live Demo**: [https://choyon.dev](https://choyon.dev)  
 📦 **Get The Source Code**: [https://gumroad.com/l/YOUR_GUMROAD_SLUG](https://gumroad.com/l/YOUR_GUMROAD_SLUG)
 
-<p align="center">
-  <img src="./assets/demo-preview.gif" alt="Interactive Neo-Brutalist Portfolio Walkthrough" width="95%" />
-</p>
-
 ---
 
 ## 📸 Section-by-Section Visual Showcase
