@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-v4.0-black?style=flat-square&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Framer_Motion-13.4-black?style=flat-square&logo=framer" />
   <img src="https://img.shields.io/badge/TypeScript-5.0-black?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Lighthouse-100%2F100-6AFFAF?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-Single_Flat_Price-FFE500?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/License-Commercial_Access-FFE500?style=flat-square&labelColor=000000" />
 </p>
 
 ---
@@ -170,13 +169,13 @@ Engineered to deliver crisp typography and smooth touch interactions on all mobi
 
 ---
 
-## 🛒 Simple One-Price Developer License ($29 Flat)
+## 📦 Complete Developer & Agency License
 
-No complicated tiers. No monthly subscriptions. Just **one flat price** for the full template:
+Get full unrestricted access to the complete production codebase with zero restrictions:
 
-- ✅ **Full Source Code Access** (Next.js 16 + React 19 + Tailwind v4 + Framer Motion)
-- ✅ **Personal & Commercial Use**: Use for your personal developer website or customize it for unlimited client projects
-- ✅ **All Included**: Lead-gen Speed Doctor & CMS Matchmaker micro-tools, booking drawer, PDF export, SEO engine
+- ✅ **Full Source Code Access**: Production-ready Next.js 16, React 19, Tailwind v4 & Framer Motion
+- ✅ **Personal & Commercial Rights**: Build your personal developer portfolio or deploy unlimited client websites
+- ✅ **All Included**: Lead-gen Speed Doctor & CMS Matchmaker micro-tools, booking drawer, dynamic PDF generator & turnkey SEO
 - ✅ **Lifetime Updates**: Receive all future template improvements
 - ✅ **Complete Documentation**: 5-minute setup and customization guide
 
@@ -186,7 +185,9 @@ No complicated tiers. No monthly subscriptions. Just **one flat price** for the 
   </a>
 </p>
 
-*(Secure checkout handled via Gumroad. Supports credit/debit cards, Apple Pay, Google Pay, and PayPal).*
+<p align="center">
+  <sub>Instant digital delivery and full repository access via Gumroad.</sub>
+</p>
 
 ---
 
