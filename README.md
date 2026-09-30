@@ -89,6 +89,7 @@ NeoPort 16 isn't just optimized for human visitors — it is architected for sea
 ### 🧲 Client Acquisition Micro-Tools
 - **Website Speed & SEO AI Doctor** (`/tools/website-speed-seo-ai-doctor`): Live interactive audit tool that diagnoses client site speed and pitches your custom optimization services.
 - **CMS Tech Stack Matchmaker** (`/tools/cms-tech-stack-matchmaker`): Interactive questionnaire that recommends optimal architectural solutions (Next.js, WordPress, Shopify, Webflow) and funnels visitors directly into a paid booking.
+- 🚀 **More Tools Coming Soon**: Additional interactive client acquisition micro-apps will be added in future template updates (free lifetime updates included).
 
 ### 💼 Portfolio Showcase & Interactive Modals
 - **Categorized Work Filter**: Tag-based dynamic filtering (Full-Stack, Next.js, AI, Mobile, Design).
@@ -183,7 +184,7 @@ Deep-dive pages for specific services with custom breadcrumbs, process steps, te
 </p>
 
 ### 11. 🧭 Interactive Tools Directory (`/tools`)
-A dedicated hub showcasing interactive micro-applications that provide value upfront to prospective clients.
+A dedicated hub showcasing interactive micro-applications that provide value upfront to prospective clients. More high-converting client acquisition micro-apps will be continuously added here in upcoming template updates.
 
 <p align="center">
   <img src="./assets/11-tools-hub.png" alt="Tools Hub Preview" width="95%" />
