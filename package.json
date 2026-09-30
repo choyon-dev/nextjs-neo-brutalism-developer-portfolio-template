@@ -1,0 +1,29 @@
+{
+  "name": "neo-brutalist-portfolio-showcase",
+  "version": "1.0.0",
+  "description": "Showcase, documentation, and asset generation engine for Choyon's Neo-Brutalist Developer & Agency Portfolio Website (choyon.dev)",
+  "type": "module",
+  "scripts": {
+    "capture": "node capture.mjs",
+    "record-video": "node record-video.mjs"
+  },
+  "keywords": [
+    "nextjs-template",
+    "neo-brutalism",
+    "developer-portfolio",
+    "react-19",
+    "tailwind-v4",
+    "framer-motion",
+    "freelance-portfolio",
+    "agency-template",
+    "portfolio-website",
+    "client-acquisition",
+    "brutalist-ui",
+    "resend-email"
+  ],
+  "author": "Choyon",
+  "license": "Commercial",
+  "devDependencies": {
+    "playwright": "^1.50.0"
+  }
+}
