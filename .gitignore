@@ -3,11 +3,8 @@ node_modules/
 package.json
 package-lock.json
 
-# Automation & Recording Scripts
+# Automation & Local Scripts
 capture.mjs
-record-video.mjs
-videos/
-videos-temp/
 
 # Environment, Cache & OS Files
 .DS_Store
